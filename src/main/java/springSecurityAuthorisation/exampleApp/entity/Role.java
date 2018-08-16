@@ -1,4 +1,4 @@
-package entity;
+package springSecurityAuthorisation.exampleApp.entity;
 
 import javax.persistence.*;
 
